@@ -34,4 +34,4 @@ Ensure the following software is installed:
 Clone the project repository to your local machine using the following command:
 
 ```bash
-git clone (https://github.com/evans-njau/school_management.git)
+git clone https://github.com/evans-njau/school_management.git
